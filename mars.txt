@@ -4,5 +4,9 @@ fang fughher
 
 some more fuggher changes!
 
+<<<<<<< HEAD
 
 This is another change to be pushed to github.
+=======
+changing stuff
+>>>>>>> debc20c8e136fb014d57052b28b23a20411d833f
